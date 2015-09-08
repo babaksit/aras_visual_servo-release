@@ -1,0 +1,12 @@
+Source: ros-indigo-aras-visual-servo-gazebo
+Section: misc
+Priority: extra
+Maintainer: babak <babak@todo.todo>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-aras-visual-servo-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: The aras_visual_servo_gazebo package
