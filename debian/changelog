@@ -1,9 +1,0 @@
-ros-indigo-aras-visual-servo-camera (0.0.1-0trusty) trusty; urgency=high
-
-  * increased field of view
-  * First Commit
-  * Contributors: babak sistani zadeh ,Javad Ramezanzadeh ,Parisa Masnadi ,Ebrahim Abedloo ,Hamid D Taghirad (supervisor)
-
- -- babak <babak@todo.todo>  Mon, 07 Sep 2015 19:30:00 -0000
-
-
